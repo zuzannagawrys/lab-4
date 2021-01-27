@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab4_zuza/matrix.hpp
+iostream
+-
+fstream
+-
+
+C:/Users/irycz/lab4_ZuzannaGawrys/src/main.cpp
+iostream
+-
+lab4_zuza/matrix.hpp
+C:/Users/irycz/lab4_ZuzannaGawrys/src/lab4_zuza/matrix.hpp
+
+C:/Users/irycz/lab4_ZuzannaGawrys/src/matrix.cpp
+iostream
+-
+string
+-
+lab4_zuza/matrix.hpp
+C:/Users/irycz/lab4_ZuzannaGawrys/src/lab4_zuza/matrix.hpp
+
