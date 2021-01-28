@@ -1,0 +1,3 @@
+C:/Users/zuza2/lab3_Exceptions/build/CMakeFiles/output.dir
+C:/Users/zuza2/lab3_Exceptions/build/CMakeFiles/edit_cache.dir
+C:/Users/zuza2/lab3_Exceptions/build/CMakeFiles/rebuild_cache.dir
